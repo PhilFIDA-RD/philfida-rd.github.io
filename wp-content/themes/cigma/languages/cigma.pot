@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cigma\n"
+"POT-Creation-Date: 2024-02-06 15:50+0530\n"
+"PO-Revision-Date: 2024-02-06 15:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: Risingthemes Team <support@risingthemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Cigma"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Cigma!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Cigma has been installed and activated successfully. Now, you can "
+"start building your dream website with a wide range of highly-customizable "
+"block patterns, templates, and template parts available in this astounding "
+"theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Cigma Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Cigma Pro. With the pro theme installed, get more options like "
+"google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Cigma Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Cigma? Feel free to leave your feedback. Your opinion helps us reach "
+"more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:18
+msgid "Welcome You To Cigma Corporate"
+msgstr ""
+
+#: patterns/banner.php:25
+msgid "Business Solutions For All Enterprises"
+msgstr ""
+
+#: patterns/banner.php:30
+msgid ""
+"Nullam ante mauris, hendrerit ac turpis in, ornare euismod diam. Quisque "
+"pellentesque tincidunt dapibus. Nullam sed pulvinar libero. Duis leo sem, "
+"malesuada eget erat nec, tristique mollis justo."
+msgstr ""
+
+#: patterns/banner.php:35
+msgid "Discover More"
+msgstr ""
+
+#: patterns/counter.php:26
+msgid "100+"
+msgstr ""
+
+#: patterns/counter.php:30
+msgid "Successful Work"
+msgstr ""
+
+#: patterns/counter.php:52
+msgid "98+"
+msgstr ""
+
+#: patterns/counter.php:56
+msgid "Team Member"
+msgstr ""
+
+#: patterns/counter.php:78
+msgid "258+"
+msgstr ""
+
+#: patterns/counter.php:82
+msgid "Happy Customers"
+msgstr ""
+
+#: patterns/counter.php:104
+msgid "254+"
+msgstr ""
+
+#: patterns/counter.php:108
+msgid "Creative Idea"
+msgstr ""
+
+#: patterns/footer.php:20
+msgid ""
+"We provide expert Business Coaching to both individuals and businesses. With "
+"over 30 years of experience we’ll ensure that you’re always getting the best "
+"guidance. Our goal is to help our companies maintain achieve best class "
+"positions in their respective industries and our team works frequently occur "
+"that pleasures have to be repudiated &amp; annoyances."
+msgstr ""
+
+#: patterns/footer.php:26
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:35
+msgid "Engineering &amp; Construction"
+msgstr ""
+
+#: patterns/footer.php:39
+msgid "Core Architecture"
+msgstr ""
+
+#: patterns/footer.php:43
+msgid "Infrastructure"
+msgstr ""
+
+#: patterns/footer.php:47
+msgid "Sustainability Services"
+msgstr ""
+
+#: patterns/footer.php:51
+msgid "Worldwide Provider"
+msgstr ""
+
+#: patterns/footer.php:55
+msgid "Master Planning"
+msgstr ""
+
+#: patterns/footer.php:59
+msgid "Sustainability Policy"
+msgstr ""
+
+#: patterns/footer.php:66
+msgid "Our Recent Posts"
+msgstr ""
+
+#: patterns/footer.php:82
+msgid "There is no posts to display"
+msgstr ""
+
+#: patterns/footer.php:90
+#: patterns/footer.php:106
+msgid "Newsletter Signup"
+msgstr ""
+
+#: patterns/footer.php:98
+msgid "Stay always in touch! Subscribe to our newsletter."
+msgstr ""
+
+#: patterns/footer.php:139
+msgid "Get Direction"
+msgstr ""
+
+#: patterns/footer.php:143
+#: patterns/header.php:23
+msgid "92 Bowery St New York, NY 10013"
+msgstr ""
+
+#: patterns/footer.php:161
+msgid "Drop Us a Line"
+msgstr ""
+
+#: patterns/footer.php:165
+#: patterns/header.php:37
+msgid "(+099)-123-45678"
+msgstr ""
+
+#: patterns/footer.php:183
+msgid "Mail Us Now"
+msgstr ""
+
+#: patterns/footer.php:187
+#: patterns/header.php:51
+msgid "demo@example.com"
+msgstr ""
+
+#: patterns/footer.php:201
+msgid "© Copyright 2024. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:205
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:205
+msgid "Rising Themes"
+msgstr ""
+
+#: patterns/footer.php:205
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:205
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:205
+msgid "WordPress"
+msgstr ""
+
+#: patterns/introduction.php:12
+msgid "About Cigma"
+msgstr ""
+
+#: patterns/introduction.php:16
+msgid "Doing The Right Thing At"
+msgstr ""
+
+#: patterns/introduction.php:20
+msgid "The Right Time"
+msgstr ""
+
+#: patterns/introduction.php:24
+msgid ""
+"We are privileged to work with hundred future-thinking awesome businesses "
+"including many of the worlds top hardware and get IT service for your "
+"technology. Our power of choice is untrammeled and when nothing prevents "
+"being able to do what we like best every pleasure."
+msgstr ""
+
+#: patterns/introduction.php:37
+msgid "Financing Business"
+msgstr ""
+
+#: patterns/introduction.php:41
+#: patterns/introduction.php:61
+msgid ""
+"Certain circumstances seds owing to the claims duty ourighteous indignation "
+"and so beguiled."
+msgstr ""
+
+#: patterns/introduction.php:57
+msgid "Yearly Calculation"
+msgstr ""
+
+#: patterns/introduction.php:69
+msgid "Read More"
+msgstr ""
+
+#: patterns/latest-news.php:17
+msgid "Latest News &amp; Blogs"
+msgstr ""
+
+#: patterns/latest-news.php:23
+msgid "Whats New in Business Area to Know"
+msgstr ""
+
+#: patterns/latest-news.php:28
+msgid ""
+"Proprietary data, expert analysis and provocative points of view for leaders "
+"seeking sustained, profitable growth points of view for<br>leaders seeking "
+"sustained, profitable growth."
+msgstr ""
+
+#: patterns/latest-news.php:53
+msgid "There is no post found"
+msgstr ""
+
+#: patterns/process.php:17
+msgid "How It Works"
+msgstr ""
+
+#: patterns/process.php:23
+msgid "Check Out Our Work Process"
+msgstr ""
+
+#: patterns/process.php:38
+msgid "01"
+msgstr ""
+
+#: patterns/process.php:45
+msgid "Choose a Service"
+msgstr ""
+
+#: patterns/process.php:49
+#: patterns/process.php:73
+#: patterns/process.php:97
+#: patterns/process.php:121
+msgid "Aute irure dolor repreh an enderit velit esse"
+msgstr ""
+
+#: patterns/process.php:62
+msgid "02"
+msgstr ""
+
+#: patterns/process.php:69
+msgid "Request a Meeting"
+msgstr ""
+
+#: patterns/process.php:86
+msgid "03"
+msgstr ""
+
+#: patterns/process.php:93
+msgid "Receive Custom Plan"
+msgstr ""
+
+#: patterns/process.php:110
+msgid "04"
+msgstr ""
+
+#: patterns/process.php:117
+msgid "Let’s Make it Happen"
+msgstr ""
+
+#: patterns/services.php:18
+msgid "Our Services"
+msgstr ""
+
+#: patterns/services.php:24
+msgid "We Provide Any Business Problems Services"
+msgstr ""
+
+#: patterns/services.php:29
+msgid ""
+"Our management consulting services focus on our clients’ most critical "
+"issues and opportunities: strategy, marketing, organization, operations, "
+"technology, transformation, digital, advanced analytics, corporate finance, "
+"mergers &amp; acquisitions and sustainability across all industries and "
+"geographies."
+msgstr ""
+
+#: patterns/services.php:45
+msgid "Advanced Analytics"
+msgstr ""
+
+#: patterns/services.php:49
+#: patterns/services.php:73
+#: patterns/services.php:97
+#: patterns/services.php:123
+#: patterns/services.php:147
+#: patterns/services.php:171
+msgid ""
+"Strategy experience and analytical expertise combine to enable decision "
+"making and create value."
+msgstr ""
+
+#: patterns/services.php:53
+#: patterns/services.php:77
+#: patterns/services.php:101
+#: patterns/services.php:127
+#: patterns/services.php:151
+#: patterns/services.php:175
+msgid "Read More +"
+msgstr ""
+
+#: patterns/services.php:69
+msgid "Corporate Finance"
+msgstr ""
+
+#: patterns/services.php:93
+msgid "Information Technology"
+msgstr ""
+
+#: patterns/services.php:119
+msgid "Digital Strategy"
+msgstr ""
+
+#: patterns/services.php:143
+msgid "Mergers &amp; Acquisitions"
+msgstr ""
+
+#: patterns/services.php:167
+msgid "Change Management"
+msgstr ""
