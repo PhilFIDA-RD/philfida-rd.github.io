@@ -14,7 +14,8 @@
           "faiLocation": {
             "uri": "Tangongon_raw.fasta.fai",
             "locationType": "UriLocation"
-          }
+          },        
+          "disableRangeRequests": true
         }
       }
     }
