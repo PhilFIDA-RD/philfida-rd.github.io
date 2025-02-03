@@ -1,0 +1,28 @@
+{
+  "assemblies": [
+    {
+      "name": "Tangongon_raw",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "Tangongon_raw-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "Tangongon_raw.fasta",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "Tangongon_raw.fasta.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    }
+  ],
+  "configuration": {},
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  },
+  "tracks": []
+}
